@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChallengeApp</string>
+    <string name="app_main_activity">ALC 4.0 Phase 1</string>
+    <string name="app_profile_activity">My Profile</string>
+    <string name="app_about_activity">About ALC</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about_btn">about alc</string>
+    <string name="profile_btn">my profile</string>
+    <string name="avatar_description">image of Marina</string>
+    <string name="track_title">Track: </string>
+    <string name="country_title">Country: </string>
+    <string name="email_title">Email: </string>
+    <string name="phone_number_title">Phone Number: </string>
+    <string name="slack_username_title">Slack Username: </string>
+    <string name="profile_name">Marina Biletska</string>
+    <string name="track_value">Android</string>
+    <string name="country_value">Egypt</string>
+    <string name="email_value">marina.biletska@gmail.com</string>
+    <string name="phone_num_value">+201206078605</string>
+    <string name="slack_name_value">\@Marina Biletska</string>
+</resources>
